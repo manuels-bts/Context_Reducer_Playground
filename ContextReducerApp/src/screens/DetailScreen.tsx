@@ -1,5 +1,5 @@
 import React from 'react'
-import { StyleSheet, SwitchBase, Text, TouchableOpacity, View } from 'react-native'
+import { StyleSheet, View } from 'react-native'
 import { SWCharacters, StarWarsButton } from '../components/StarWarsButton';
 
 export const DetailScreen = () => {
